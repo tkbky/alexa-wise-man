@@ -1,0 +1,7 @@
+package: github.com/tkbky/alexa-wise-man
+import:
+- package: github.com/mikeflynn/go-alexa
+  subpackages:
+  - skillserver
+- package: github.com/lib/pq
+- package: github.com/jmoiron/sqlx

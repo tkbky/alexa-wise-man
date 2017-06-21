@@ -1,0 +1,21 @@
+{
+  "intents": [
+    {
+      "intent": "TellAQuote",
+      "slots": []
+    },
+    {
+      "intent": "AMAZON.HelpIntent",
+      "slots": []
+    },
+    {
+      "intent": "HelpReply",
+      "slots": [
+        {
+          "name": "Want",
+          "type": "LITERAL"
+        }
+      ]
+    }
+  ]
+}

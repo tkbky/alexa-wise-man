@@ -1,0 +1,33 @@
+TellAQuote Tell me a quote
+TellAQuote Tell a quote
+TellAQuote Inspire me
+TellAQuote Inspire me with a quote
+TellAQuote Inspire me with some quotes
+TellAQuote Inspire me with quotes
+TellAQuote Motivate me with a quote
+TellAQuote Motivate me with some quotes
+TellAQuote Motivate me with quotes
+TellAQuote Encourage me with a quote
+TellAQuote Encourage me with some quotes
+TellAQuote Encourage me with quotes
+TellAQuote Influence me with a quote
+TellAQuote Influence me with some quotes
+TellAQuote Influence me with quotes
+TellAQuote Move me with a quote
+TellAQuote Move me with some quotes
+TellAQuote Move me with quotes
+TellAQuote Cheer me up with a quote
+TellAQuote Cheer me up with some quotes
+TellAQuote Cheer me up with quotes
+TellAQuote Tell me some quotes
+TellAQuote Tell some quotes
+TellAQuote Give me some quotes
+TellAQuote Give some quotes
+HelpReply {yes|Want}
+HelpReply {yes|Want} why not
+HelpReply {yes|Want} please
+HelpReply {sure|Want}
+HelpReply {sure|Want} why not
+HelpReply {no|Want}
+HelpReply {no|Want} thanks
+HelpReply {no|Want} please
